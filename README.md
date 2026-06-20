@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🚀+Passionate+Data+Science+Student+%26+Python+Programmer;💡+Building+Impactful+Projects+%7C+Solving+Logical+Problems;🎯+Goal%3A+Become+a+Top+1%25+Data+Scientist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🚀+Data+Scientist+%26+Machine+Learning+Engineer;💡+Building+End-to-End+ML+Systems+%26+Deploying+Them;🎯+Turning+Raw+Data+Into+Production-Ready+Intelligence)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,10 +22,11 @@
 class DataScientist:
     def __init__(self):
         self.name = "Sachin Laxman Masti"
-        self.role = "Data Science Student"
-        self.language_spoken = ["Hindi", "English","Marathi","Kannada"]
-        self.current_focus = ["Python","Pandas","Numpy","Matplotlib","Seaborne", "Machine Learning"]
-        
+        self.role = "Data Scientist | ML Engineer"
+        self.languages_spoken = ["Hindi", "English", "Marathi", "Kannada"]
+        self.stack = ["Python", "scikit-learn", "XGBoost", "LightGBM", "CatBoost", "FastAPI", "Flask"]
+        self.shipped = ["Airbnb NYC Price Predictor", "Spam Classifier (NLP)"]
+
     def say_hi(self):
         print("Thanks for dropping by!")
         print("Let's connect and build something amazing!")
@@ -34,12 +35,12 @@ me = DataScientist()
 me.say_hi()
 ```
 
-- 🔭 **Currently Working On:** Pandas and Python logic challenges
-- 🌱 **Learning:** Machine Learning & Data Visualization
-- 🎯 **Goal:** Become a Top 1% Data Scientist
-- 💬 **Ask Me About:** Python, Pandas, Matplotlib, Seaborn
-- ⚡ **Fun Fact:** I enjoy blending creativity with code!
-- 🧩 **Hobby:** Solving complex problems and creating data stories
+- 🔭 **Currently Building:** End-to-end ML pipelines — from raw data to deployed APIs
+- 🛠️ **Recent Ship:** Spam Classifier — LightGBM + FastAPI + Docker, deployed on Render
+- 🎯 **Focus:** Production-grade ML systems, not just notebooks
+- 💬 **Ask Me About:** Python, ML pipelines, FastAPI, model deployment
+- 🌐 **Portfolio:** [sachin-portfolio-rho-teal.vercel.app](https://sachin-portfolio-rho-teal.vercel.app/)
+- 🧩 **Approach:** Self-driven builder — I ship projects, write about them, and iterate in public
 
 <br clear="both"/>
 
@@ -59,6 +60,16 @@ me.say_hi()
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB0028?style=for-the-badge&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-2D8CFF?style=for-the-badge&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
+![Optuna](https://img.shields.io/badge/Optuna-0078D4?style=for-the-badge&logoColor=white)
+
+### ⚙️ Backend & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ## ⚙️ Tools & Platforms
 
@@ -70,9 +81,11 @@ me.say_hi()
 
 <p align="center">
   <img src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0D1117&color=FF00FF"/>
-  <img src="https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D1117&color=00FFFF"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117&color=FF00FF"/>
-  <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=00FFFF"/>
+  <img src="https://img.shields.io/badge/PyCharm-%23000000?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=0D1117&color=00FFFF"/>
+  <img src="https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D1117&color=FF00FF"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117&color=00FFFF"/>
+  <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=FF00FF"/>
+  <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117&color=00FFFF"/>
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1117&color=FF00FF"/>
 </p>
 
@@ -81,6 +94,20 @@ me.say_hi()
 </p>
 
 </div>
+
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|---|---|---|
+| 🏙️ **[Airbnb NYC Price Predictor](https://github.com/sachinmasti)** | Regression model predicting NYC Airbnb listing prices, deployed live | CatBoost, Flask, Render |
+| 📧 **[Spam Classifier](https://github.com/sachinmasti)** | NLP-based text classification with full ML pipeline & API | LightGBM, FastAPI, Docker, Render |
 
 </div>
 
@@ -124,7 +151,8 @@ me.say_hi()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-masti-23a275228/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinmasti88@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachinmasti)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sachin-portfolio-rho-teal.vercel.app/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Sachinmasti)
 
 </div>
 
@@ -154,7 +182,7 @@ me.say_hi()
 
 <div align="center">
   
-### 💫 *"Keep learning, keep building, and stay consistent every single day."*
+### 💫 *"Build it. Ship it. Write about it. Repeat."*
 
 **⭐ From [sachinmasti](https://github.com/sachinmasti) with 💙**
 
